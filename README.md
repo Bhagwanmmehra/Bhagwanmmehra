@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhagwanmmehra
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning ...HTML,CSS,JAVASCRIPT,POWER BI,MYsql
+- 🌱 I’m currently learning ...HTML,CSS,JAVASCRIPT,POWER BI,MySql
 - 
 
 
